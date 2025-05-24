@@ -1,5 +1,3 @@
-## Hi there 👋
-## 💻 Codewars Profile
 [![Codewars](https://www.codewars.com/users/pahanan/badges/small)](https://www.codewars.com/users/pahanan)
 
 ### Passionate about coding, building full-stack apps and learning every day.
