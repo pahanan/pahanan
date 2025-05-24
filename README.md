@@ -1,4 +1,6 @@
 ## Hi there 👋
+## 💻 Codewars Profile
+[![Codewars](https://www.codewars.com/users/pahanan/badges/small)](https://www.codewars.com/users/pahanan)
 
 <!--
 **pahanan/pahanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
