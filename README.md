@@ -1,4 +1,4 @@
-[![Codewars](https://www.codewars.com/users/pahanan/badges/small)](https://www.codewars.com/users/pahanan)
+![Codewars](https://www.codewars.com/users/pahanan/badges/large)
 
 # 👋 Hi, I'm Andrii
 
